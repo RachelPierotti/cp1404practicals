@@ -9,6 +9,10 @@ def main():
     score = float(input("Enter score: "))
     determine_score_status(score)
     print(determine_score_status(score))
+    import random
+    score = random.randint(0, 100)
+    determine_score_status(score)
+    print(determine_score_status(score))
 
 
 def determine_score_status(score):
