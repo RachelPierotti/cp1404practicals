@@ -32,4 +32,3 @@ class SquareNumberApp(App):
 
 SquareNumberApp().run()
 
-# commit properly

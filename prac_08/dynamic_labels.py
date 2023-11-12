@@ -34,4 +34,3 @@ class DynamicLabelsApp(App):
 
 DynamicLabelsApp().run()
 
-# commit properly
